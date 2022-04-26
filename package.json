@@ -1,4 +1,5 @@
 {
+
   "name": "most-used-words",
   "title": "Most Used Words",
   "version": "0.1.0",
@@ -15,6 +16,8 @@
   "main": "background.js",
   "dependencies": {
     "core-js": "^3.8.3",
+    "path": "^0.12.7",
+    "stream": "^0.0.2",
     "vue": "^2.6.14",
     "vuetify": "^2.6.0"
   },
@@ -53,5 +56,4 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
-}
+  ]}
